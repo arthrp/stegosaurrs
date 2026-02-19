@@ -1,0 +1,1 @@
+pub const HEADER: [u8; 3] = [0x53, 0x54, 0x47]; // STG
